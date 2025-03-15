@@ -1,6 +1,6 @@
 # AnzuETW
 
-	![Alt text](https://github.com/casp3r0x0/AnzuETW/blob/main/anzu-in-mythology.jpg?raw=true)
+![Alt text](https://github.com/casp3r0x0/AnzuETW/blob/main/anzu-in-mythology.jpg?raw=true)
 
 	
 # what is AnzuETW ?
