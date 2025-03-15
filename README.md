@@ -1,8 +1,9 @@
 # AnzuETW
 
-	![image info](./anzu-in-mythology.jpg)
+	![Alt text](https://github.com/casp3r0x0/AnzuETW/blob/main/anzu-in-mythology.jpg?raw=true)
+
 	
-#what is AnzuETW ?
+# what is AnzuETW ?
 
 it is a side project that I was working recenlty, the goal is to allow SOC/DFIR teams to create their own plugins.
 ETW : it is very powerfull logging tool developed by microsoft but it does not offer any kind of usage to normal SOC team, ETW used heavly by EDRs
