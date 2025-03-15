@@ -1,0 +1,10 @@
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\bin\x64\Debug\AnzuService.exe.config
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\bin\x64\Debug\AnzuService.exe
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\bin\x64\Debug\AnzuService.pdb
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.csproj.SuggestedBindingRedirects.cache
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.exe
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.pdb
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.csproj.Fody.CopyLocal.cache
+C:\Users\hathh\Desktop\Anzu\AnzuService\AnzuService\obj\x64\Debug\AnzuService.csproj.Fody.RuntimeCopyLocal.cache

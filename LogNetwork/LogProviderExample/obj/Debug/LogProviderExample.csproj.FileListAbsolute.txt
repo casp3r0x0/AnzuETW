@@ -1,0 +1,84 @@
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\x86\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\amd64\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\arm64\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\TraceReloggerLib.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Dia2Lib.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\LogProviderExample.dll.config
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\LogProviderExample.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\LogProviderExample.pdb
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Buffers.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Memory.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\bin\Debug\System.ValueTuple.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.csproj.CopyComplete
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.pdb
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.csproj.Fody.CopyLocal.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample\LogProviderExample\obj\Debug\LogProviderExample.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\x86\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\amd64\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\arm64\msdia140.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\TraceReloggerLib.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Dia2Lib.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\LogProviderExample.dll.config
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\LogProviderExample.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\LogProviderExample.pdb
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Buffers.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Memory.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\bin\Debug\System.ValueTuple.xml
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.csproj.Fody.CopyLocal.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.csproj.CopyComplete
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.dll
+C:\Users\hathh\Desktop\Anzu\LogProviderExample - 2\LogProviderExample\obj\Debug\LogProviderExample.pdb

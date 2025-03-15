@@ -1,0 +1,8 @@
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\bin\Debug\Anzu.exe.config
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\bin\Debug\Anzu.exe
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\bin\Debug\Anzu.pdb
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\obj\Debug\Anzu.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\obj\Debug\Anzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\obj\Debug\Anzu.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\obj\Debug\Anzu.exe
+C:\Users\hathh\Desktop\Anzu\Anzu\Anzu\obj\Debug\Anzu.pdb
