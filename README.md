@@ -1,6 +1,6 @@
 # AnzuETW
-	![This is an alt text.](https://raw.githubusercontent.com/casp3r0x0/AnzuETW/refs/heads/main/anzu-in-mythology.jpg)
-	
+
+	![image info](./anzu-in-mythology.jpg)
 	
 #what is AnzuETW ?
 
